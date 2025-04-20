@@ -1,3 +1,7 @@
+Integrantes do grupo:
+Murilo Simões Modesto 22.00402-5
+Pedro Barrionuevo Akashi - RA: 22.01454-3
+
 O arquivo dependencias.txt foi obtido executando o seguinte comando:
 - ```mvn dependency:tree > demendencias.txt```
 
@@ -115,4 +119,3 @@ console do H2 para verificar se as tabelas e dados foram criados corretamente.
 3. Verifique o banco de dados H2 para garantir que as tabelas e dados foram
  criados corretamente.
 
-Se precisar de mais ajuda, fico a disposição
